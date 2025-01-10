@@ -1,0 +1,20 @@
+button{
+    background-color:#edafea;
+    color:#efd7e4;
+    font-size:14pt;
+    margin:10px;
+    outline-style: outset;
+    border-style: dotted dashed solid double;
+    }
+    #danger-btn{
+    background-color:#d3f9ff;
+    }
+    .green-bg{
+    background-color:#aba0a3;
+    }
+select{
+    font-size:14pt;
+    border-radius: 5%;;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
